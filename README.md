@@ -16,7 +16,7 @@
 ### Marvell Armada (9.2.0-11289)
 - Script:
 ```
-bash <(curl -L https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/9.2.0_11289/SurveillanceStation-Armada/install_license)
+bash <(curl -L https://raw.githubusercontent.com/mrli868/Surveillance-Station-9.20-11289/tree/main/9.2.0_11289/SurveillanceStation-Armada/install_license)
 ```
 
 ---
@@ -24,18 +24,18 @@ bash <(curl -L https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/
 - Link download: https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.2.0-11289/SurveillanceStation-x86_64-9.2.0-11289.spk
 - Script:
 ```
-bash <(curl -L https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/9.2.0_11289/SurveillanceStation-x86_64/install_license)
+bash <(curl -L https://raw.githubusercontent.com/mrli868/Surveillance-Station-9.20-11289/tree/main/9.2.0_11289/SurveillanceStation-x86_64/install_license)
 ```
 
 ---
 ### Remove license
 - Script:
 ```
-bash <(curl -L https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/9.2.0_11289/license/remove_license)
+bash <(curl -L https://raw.githubusercontent.com/mrli868/Surveillance-Station-9.20-11289/tree/main/9.2.0_11289/license/remove_license)
 ```
 ---
 ### Cracked
-![License](https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/img/crack_license.png)
+![License](https://raw.githubusercontent.com/mrli868/Surveillance-Station-9.20-11289/tree/main/img/crack_license.png)
 
 
 ---
